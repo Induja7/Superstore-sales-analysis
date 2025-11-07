@@ -7,7 +7,7 @@ The goal is to uncover sales patterns, profit fluctuations, and business insight
 ---
 
 ### Dataset
-**File:** `Sample - Superstore.xlsx`
+**File:** [Sample - Superstore.xlsx](Sample%20-%20Superstore.xlsx)
 
 The dataset includes:
 - Order Date, Ship Date, and Region  
@@ -53,6 +53,7 @@ The following chart shows monthly sales, profit, and profit margin trends:
 [www.linkedin.com/in/induja-j]
 
 ---
+
 
 
 
