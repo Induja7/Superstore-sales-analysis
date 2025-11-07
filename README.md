@@ -1,12 +1,12 @@
-# 🏪 Superstore Sales Analysis (2014–2017)
+# Superstore Sales Analysis (2014–2017)
 
-### 📊 Project Overview
+### Project Overview
 This project analyzes **sales, profit, and profit margin trends** from a sample superstore dataset between **2014 and 2017**.  
 The goal is to uncover sales patterns, profit fluctuations, and business insights using Excel pivot tables and charts.
 
 ---
 
-### 📁 Dataset
+### Dataset
 **File:** `Sample - Superstore.xlsx`
 
 The dataset includes:
@@ -16,7 +16,7 @@ The dataset includes:
 
 ---
 
-### 🧩 Analysis Summary
+### Analysis Summary
 Key insights from the analysis:
 - Sales grew steadily from 2014 to 2017.  
 - Profit margins were unstable early on but averaged around **10–15%** later.  
@@ -24,7 +24,7 @@ Key insights from the analysis:
 
 ---
 
-### 📈 Visualization
+### Visualization
 The following chart shows monthly sales, profit, and profit margin trends:
 
 ![Monthly Sales, Profit & Profit Margin](visuals/monthly_sales_profit_trend.png)
@@ -49,8 +49,9 @@ The following chart shows monthly sales, profit, and profit margin trends:
 
 ### 👤 Author
 **Induja J**  
-📧 [indujaj17@gmail.com]  
+📧 [indujaj02@gmail.com]  
 🔗 [www.linkedin.com/in/induja-j]
 
 ---
+
 
