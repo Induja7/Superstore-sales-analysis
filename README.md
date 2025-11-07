@@ -35,23 +35,24 @@ The following chart shows monthly sales, profit, and profit margin trends:
 
 ---
 
-### 🛠️ Tools Used
+### Tools Used
 - Microsoft Excel (Pivot Tables & Charts)  
 - GitHub (for version control and portfolio)  
 
 ---
 
-### 🚀 Future Plans
+### Future Plans
 - Build an interactive Power BI or Tableau dashboard  
 - Automate analysis using Python (pandas, matplotlib)
 
 ---
 
-### 👤 Author
+### Author
 **Induja J**  
 📧 [indujaj02@gmail.com]  
 🔗 [www.linkedin.com/in/induja-j]
 
 ---
+
 
 
