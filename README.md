@@ -49,10 +49,11 @@ The following chart shows monthly sales, profit, and profit margin trends:
 
 ### Author
 **Induja J**  
-📧 [indujaj02@gmail.com]  
-🔗 [www.linkedin.com/in/induja-j]
+[indujaj02@gmail.com]  
+[www.linkedin.com/in/induja-j]
 
 ---
+
 
 
 
