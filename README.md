@@ -27,7 +27,7 @@ Key insights from the analysis:
 ### Visualization
 The following chart shows monthly sales, profit, and profit margin trends:
 
-![Monthly Sales, Profit & Profit Margin](visuals/monthly_sales_profit_trend.png)
+![Monthly Sales, Profit & Profit Margin](monthly_sales_profit_trend.png)
 
 - **Blue bars:** Sales  
 - **Red line:** Profit  
@@ -53,6 +53,7 @@ The following chart shows monthly sales, profit, and profit margin trends:
 [www.linkedin.com/in/induja-j]
 
 ---
+
 
 
 
